@@ -1,0 +1,1 @@
+"ID"	"AsiakasID"	"NideID"	"Lainauspiste"	"LainausAika"	"Erapaiva"	"Pysakki"	"Huomautusluokka"	"HuomautusAika"	"EiHuomauteta"	"Tekotapa, luonnollinen"	"Uusimiskerta"

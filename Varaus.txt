@@ -1,0 +1,1 @@
+"ID"	"AsiakasID"	"NideID"	"Varauspiste"	"Kiinniottopiste"	"Noutopiste"	"Luontipaiva"	"Saapumispaiva"	"Viimeinenpaiva"	"Ilmoituspaiva"	"Ilmoitustapa"	"ViimeinenNoutopaiva"	"Alkamispaiva"	"Tekotapa"	"Saapunut"	"KelluvaNoutopiste"	"Lisatiedot"
